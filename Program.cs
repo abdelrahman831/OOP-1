@@ -56,7 +56,7 @@ namespace OOP1{
             None=0
         }
         int counter = 1,pow=1;
-
+        
         public struct Point
         {
             public double x;
